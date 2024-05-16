@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="83">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="72">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="38">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="14">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="60">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="49">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="41">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="28">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="25">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="77">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="57">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="40">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="30">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="97">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="6">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="1">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="91">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="76">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="73">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="39">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="81">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="66">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="86">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="59">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="35">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="8">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="95">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="90">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="ranking">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="2"/>
+        </Key>
+        <Key name="season">
+            <Value flag="1"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="1200"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="1200"/>
+        </Key>
+    </Section>
+    <Section name="62">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="2">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="43">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="65">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="44">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="11">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="85">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="78">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="61">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="48">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="32">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="15">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="82">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="93">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="51">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="36">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="34">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="22">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="58">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="33">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="31">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="29">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="16">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="4">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="46">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="89">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="87">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="71">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="9">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="69">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="68">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="19">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="96">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="54">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="47">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="3">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="27">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="26">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="84">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="70">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="20">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="10">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="94">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="88">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="64">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="45">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="23">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="92">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="74">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="21">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="79">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="50">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="37">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="100">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="80">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="52">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="7">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="99">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="98">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="75">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="55">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="53">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="42">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="24">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="17">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="13">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="12">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="67">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="63">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="56">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="18">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="5">
+        <Key name="npc">
+            <Value int="0"/>
+        </Key>
+        <Key name="dpc">
+            <Value int="0"/>
+        </Key>
+        <Key name="np">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="dp">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+</Bank>

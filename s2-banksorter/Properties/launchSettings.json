@@ -2,7 +2,7 @@
   "profiles": {
     "s2-banksorter": {
       "commandName": "Project",
-      "commandLineArgs": "\"D:\\Cameron\\Documents\\StarCraft II\\Accounts\\71090424\\1-S2-1-2493151\\Banks\\1-S2-1-2493151\\SyncBank.SC2Bank\"\r\n\"D:\\Cameron\\Documents\\StarCraft II\\Accounts\\71090424\\1-S2-1-2493151\\Banks\\1-S2-1-2493151\\TestBank.SC2Bank\""
+      "commandLineArgs": "../../../../test_files/adsocobx.SC2Bank"
     }
   }
 }

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+  <Section name="1334">
+    <Key name="str2">
+      <Value string="130000000000001001000000000000000000000000000000000" />
+    </Key>
+    <Key name="str3">
+      <Value string="00000000000000000000000000000000000000000" />
+    </Key>
+  </Section>
+  <Section name="2143">
+    <Key name="314">
+      <Value int="13" />
+    </Key>
+  </Section>
+</Bank>
